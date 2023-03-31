@@ -1,0 +1,10 @@
+# Required packages:
+- "@typescript-eslint/eslint-plugin"
+- "@typescript-eslint/parser"
+- "eslint"
+- "eslint-config-airbnb"
+- "eslint-config-airbnb-typescript"
+- "eslint-plugin-import"
+- "eslint-plugin-jsx-a11y"
+- "eslint-plugin-react"
+- "eslint-plugin-react-hooks"
